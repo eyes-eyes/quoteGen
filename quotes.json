@@ -1,0 +1,92 @@
+{
+  "Friendship": [
+    {
+      "quote": "Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom.",
+      "author": "Marcel Proust"
+    },
+    {
+      "quote": "There is nothing on this earth more to be prized than true friendship.",
+      "author": "Thomas Aquinas"
+    },
+    {
+      "quote": "It is not so much our friends' help that helps us, as the confidence of their help.",
+      "author": "Epicurus"
+    },
+    {
+      "quote": "My friends are my estate.",
+      "author": "Emily Dickinson"
+    }
+  ],
+  "Life": [
+    {
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "quote": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "quote": "The most important thing is to enjoy your life - to be happy - it's all that matters.",
+      "author": "Audrey Hepburn"
+    }
+  ],
+  "Love": [
+    {
+      "quote": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+      "author": "Lao Tzu"
+    },
+    {
+      "quote": "'Tis better to have loved and lost than never to have loved at all.",
+      "author": "Alfred Lord Tennyson"
+    },
+    {
+      "quote": "Love isn't something you find. Love is something that finds you.",
+      "author": "Loretta Young"
+    },
+    {
+      "quote": "Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.",
+      "author": "James Baldwin"
+    }
+  ],
+  "Motivation": [
+    {
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    {
+      "quote": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "quote": "Quality is not an act, it is a habit.",
+      "author": "Aristotle"
+    },
+    {
+      "quote": "A good plan violently executed now is better than a perfect plan executed next week.",
+      "author": "George S. Patton"
+    }
+  ],
+  "Success": [
+    {
+      "quote": "Success is the sum of small efforts - repeated day in and day out.",
+      "author": "Robert Collier"
+    },
+    {
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "quote": "Victory has a thousand fathers, but defeat is an orphan.",
+      "author": "John F. Kennedy"
+    },
+    {
+      "quote": "Success depends upon previous preparation, and without such preparation there is sure to be failure.",
+      "author": "Confucius"
+    }
+  ]
+}
