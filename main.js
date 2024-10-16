@@ -82,16 +82,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Optional: Add a button to pause/play audio
     const audioControlButton = document.createElement("button");
-    audioControlButton.textContent = "Play Audio";
+    audioControlButton.textContent = "Play Music";
     document.body.appendChild(audioControlButton);
 
     audioControlButton.addEventListener("click", () => {
         if (audio.paused) {
             audio.play();
-            audioControlButton.textContent = "Pause Audio";
+            audioControlButton.textContent = "Pause Music";
         } else {
             audio.pause();
-            audioControlButton.textContent = "Play Audio";
+            audioControlButton.textContent = "Play Music";
         }
     });
 });
