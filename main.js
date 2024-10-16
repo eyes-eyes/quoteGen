@@ -30,6 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const quoteDisplay = document.querySelector(".bg-primary p");
     const categories = document.querySelectorAll("details ul li");
+    const detailsElement = document.querySelector("details");
 
     categories.forEach((category) => {
         category.addEventListener("click", () => {
@@ -39,6 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             // Update the quote display
             quoteDisplay.textContent = randomQuote;
+            detailsElement.open = false;
         });
     });
 });
